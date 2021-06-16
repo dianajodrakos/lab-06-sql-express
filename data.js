@@ -14,6 +14,7 @@ const books
             ISBN: '0060905611',
             category: 'theory',
             price: 2.06,
+            stock: true,
         },
 
         {
@@ -29,6 +30,7 @@ const books
             ISBN: '0811216993',
             category: 'fiction',
             price: 2.26,
+            stock: true,
         },
 
         {
@@ -44,6 +46,7 @@ const books
             ISBN: '1645020215',
             category: 'foodways',
             price: 25,
+            stock: true,
         },
 
         {
@@ -59,6 +62,7 @@ const books
             ISBN: '006051275X',
             category: 'fiction',
             price: 5.49,
+            stock: true,
         },
 
         {
@@ -74,6 +78,7 @@ const books
             ISBN: '0415903874',
             category: 'theory',
             price: 32.75,
+            stock: true,
         },
 
         {
@@ -89,6 +94,7 @@ const books
             ISBN: '0935754016',
             category: 'theory',
             price: 6,
+            stock: true,
         }
     ]
 };
